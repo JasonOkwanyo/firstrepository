@@ -1,0 +1,10 @@
+td,th{
+    border: 2px inset cyan;
+    padding: 10px;
+
+}
+table{
+    width:90%;
+    border-collapse: collapse;
+
+}
